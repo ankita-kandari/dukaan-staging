@@ -1,0 +1,101 @@
+.subHeading{
+    font: 18px Allerta;
+}
+
+.navbar a{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.categories .mainheading{
+    margin-top: 5%; 
+    font:32px Allerta;
+    color:#1A181E; 
+    font-weight: bold;
+
+}
+.categorycard{
+    min-height: 245px;
+}
+
+.headphones .mainheading{
+    margin-top: 5%; 
+    font:32px Allerta;
+    color:#1A181E; 
+    font-weight: bold;
+}
+.headphones .card{
+    border:none;
+}
+.headphones img{
+    border:1px solid #c6c6c6;
+    padding:5px;
+}
+.headphones button{
+    border:1px solid gray;
+    font-size:16px;
+    font-weight: bold;
+    border-radius: 0;
+    padding: 12px;
+}
+.storyCard .my-5{
+    margin-top: 7rem!important;
+    margin-bottom: 3rem!important;
+}
+.storyCard .subcontainer{
+    background-color: #fafafa;
+    /* height:500px; */
+    /* width:100%; */
+   
+}
+.storyCard button{
+    border-radius: 0;
+}
+.storyCard h3{
+    font-weight:bold;
+    font-size: 35px;
+}
+
+.topFooter{
+    background-color: #272626;
+}
+.topFooterSpan::placeholder{
+    font-weight: bold;
+}
+::placeholder{
+    color:#f2f2f2;
+    font-weight: bold;
+}
+.topFooterInput{
+    position: relative;
+    width: 32%;
+    padding: 12px;
+    background-color: #272626;
+    border: 1px solid #f2f2f2
+}
+.topFooterBtn{
+    position: absolute;
+    right: 441px;
+    background-color: #080808;
+    color: #f2f2f2;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.bottomFooter{
+    background-color: #080808!important;
+}
+.firstBottomFooter{
+    border-bottom: 1px solid #f2f2f2;
+}
+.bottomFooter .mainheading{
+    font-size: 18px;
+}
+.bottomFooter img{
+    border: 1px solid #f2f2f2
+}
+
+.secondBottomFooter{
+    background-color:#080808;
+
+}
